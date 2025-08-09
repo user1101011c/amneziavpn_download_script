@@ -12,7 +12,7 @@ This bash script automates the installation of AmneziaVPN client on Linux system
 - Version-independent (automatically adapts to new releases)
 
 ## Prerequisites
-- Linux distribution (tested on Ubuntu/Debian-based systems). [Other distributions](https://docs.amnezia.org/documentation/installing-app-on-linux/) 
+- Linux distribution (tested on Ubuntu/Debian-based systems). [See also](https://docs.amnezia.org/documentation/installing-app-on-linux/) 
 - Internet connection
 - `sudo` privileges
 - Basic terminal knowledge
