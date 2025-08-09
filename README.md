@@ -22,7 +22,7 @@ This bash script automates the installation of AmneziaVPN client on Linux system
 ### Step-by-Step Guide
 1. **Download the script**:
    ```bash
-   wget https://raw.githubusercontent.com/<your-username>/<your-repo>/main/amnezia_vpn_download.sh
+   git clone https://github.com/user1101011c/amneziavpn_download_script.git
 
 2. **Make it executable**:
    ```bash
